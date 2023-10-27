@@ -1,0 +1,8 @@
+2023-10-19 12:59:49,650 - my_logger - ERROR - Error: HTTPSConnectionPool(host='api.smartthings.com', port=443): Max retries exceeded with url: /devices/devices (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+2023-10-19 13:12:36,403 - my_logger - ERROR - Error: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2023-10-19 14:06:47,948 - my_logger - ERROR - Error: 'module' object is not callable. Did you mean: 'pprint.pprint(...)'?
+2023-10-19 14:09:02,195 - my_logger - ERROR - Error: list indices must be integers or slices, not str
+2023-10-19 14:10:20,155 - my_logger - ERROR - Error: list indices must be integers or slices, not str
+2023-10-19 14:11:03,461 - my_logger - ERROR - Error: list indices must be integers or slices, not str
+2023-10-19 14:21:19,847 - my_logger - ERROR - Error: list indices must be integers or slices, not str
+2023-10-20 09:27:42,689 - my_logger - ERROR - Error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
